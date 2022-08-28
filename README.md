@@ -14,3 +14,5 @@ Deployed Application: https://budegttrackerapp.herokuapp.com/
 <br/>
 
 Budget-Tracker Preview: <br/>
+
+![image](https://user-images.githubusercontent.com/100250064/187071374-8c2ace2f-217c-443f-aaf3-7b20b6586641.png)
